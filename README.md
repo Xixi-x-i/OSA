@@ -10,6 +10,6 @@ TensorFlow 2.11.0
 # Preprocessing
 run the file `preprocessing1.py`  `preprocessing2.py` 
 
-#  evaluation
-
+#  classification
+run the file `model.ipynb`  
 
