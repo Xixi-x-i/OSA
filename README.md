@@ -10,5 +10,5 @@ run the file `preprocessing1.py`   extract the minimum and maximum values of eac
 run the file `preprocessing2.py`   extract R-R interval signal, R-peak amplitude signal and heart rate variability (HRV) feature 
 
 #  classification
-run the file `model.ipynb`  
+run the file `./models/model.ipynb`  
 
